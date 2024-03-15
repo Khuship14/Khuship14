@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>whatsapp page</title>
+<link href="whatsapp.css"rei="stylesheet"/>
+</head>
+,body>
+<div id="khushi">
+<div class="main">
+<div>
+<img src="account.png"height="20px"width="20px">
+</div>
+<div>
+<img src="call.png"height="20px"width="20px">
+</div>
+<div>
+<img src="doat.png"height="20px"width="20px">
+</div>
+<div id="up">
+
+<img src="search.png"height="20px"width="20px"><inputtype text" name="username"placeholder="Search or start new chat"/>
+</div>
+<div>
+
